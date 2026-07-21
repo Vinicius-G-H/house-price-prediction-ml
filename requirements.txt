@@ -1,1 +1,14 @@
+# Manipulação e análise de dados
+pandas==3.0.2
+numpy==2.4.4
 
+# Visualização
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Estatística
+scipy==1.17.1
+
+# Ambiente Jupyter (para abrir e rodar os notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
